@@ -3,8 +3,8 @@
      * @author BetOnGod
      * @description View Discord NSFW-Gated content without meeting the required age requirement.
      * @version 1.0.0
-     * @source https://github.com/BetOnGod/BypassNSFW
-     * @updateUrl https://github.com/BetOnGod/BypassNSFW/raw/main/BypassNSFW.plugin.js
+     * @source https://github.com/BetOnGod/BypassNSFW-Discord
+     * @updateUrl https://raw.githubusercontent.com/BetOnGod/BypassNSFW-Discord/main/BypassNSFW.plugin.js
 */
     module.exports = class Bypass {
 
